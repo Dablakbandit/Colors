@@ -1,0 +1,5 @@
+name: Colors
+main: me.dablakbandit.colors.Colors
+author: Dablakbandit
+version: 1.0
+depend: [PlayerMap]
