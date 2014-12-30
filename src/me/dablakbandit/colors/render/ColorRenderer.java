@@ -138,4 +138,10 @@ public class ColorRenderer extends RenderMap{
 		
 	}
 
+	@Override
+	public void onDrop() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
