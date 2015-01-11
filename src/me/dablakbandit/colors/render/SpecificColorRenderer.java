@@ -145,4 +145,10 @@ public class SpecificColorRenderer extends RenderMap{
 		
 	}
 
+	@Override
+	public void onChunkMove() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
